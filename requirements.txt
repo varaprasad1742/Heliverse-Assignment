@@ -1,0 +1,7 @@
+pandas
+numpy
+tensorflow>=2.10
+seaborn
+matpoltlib
+scikit-learn
+keras-tuner
